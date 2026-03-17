@@ -3,6 +3,6 @@ project_name        = "zomato"
 project_environment = "production"
 instance_type       = "t2.micro"
 instance_ami        = "ami-0317b0f0a0144b137"
-domain_name         = "mcsarath.shop"
+domain_name         = "sarathmc.shop"
 hostname            = "terraform-webserver"
 
